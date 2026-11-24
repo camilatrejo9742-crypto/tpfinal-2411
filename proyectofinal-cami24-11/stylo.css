@@ -1,0 +1,55 @@
+body{
+background-color:#F8DDE5; 
+border-top: 40px solid  rgb(240, 115, 136);
+}
+
+h1{
+    color: #A83D60
+}
+
+h3{
+    color: #c94c76;
+}
+h2{
+    color: #f584aa;
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+img{
+   
+    height: 220px;
+    width: 180px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+}
+article{
+    margin: 10px;
+}
+h5{
+    color: #f584aa;
+}
+
+#headerp{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+}
